@@ -28,22 +28,34 @@ This project replicates the **frontend design** of Netflix’s homepage. It's bu
 
 ---
 
-## 📁 Project Structure
-NETFLIX/
-├── index.html
-├── style.css
-├── script.js
-└── assets/          # Images, logos, etc.
+## 📂 Project Structure
+index.html – Main HTML file that structures the web page
+
+style.css – Contains all the styling for layout, responsiveness, and design
+
+script.js – Handles interactivity and dynamic behaviors
+
+assets/ – Folder for images, logos, and other media files
 
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 HTML5 – For structuring content
 
 CSS3 – For styling, layout, and responsiveness
 
 JavaScript (Vanilla) – For interactivity like navigation toggling and dynamic behaviors
 
-🧑‍💻 Author
+##📚 What I Learned
+Building real-world UI with HTML/CSS from scratch
+
+Implementing responsive design principles using media queries
+
+Using JavaScript to add interactivity without frameworks
+
+Structuring CSS for scalability and maintainability
+
+
+##🧑‍💻 Author
 Harshit Sharma
 📧 HS90908080@gmail.com
 🔗 https://www.linkedin.com/in/harshit-sharma00/
