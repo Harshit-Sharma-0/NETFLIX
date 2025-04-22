@@ -44,7 +44,7 @@ HTML5 – For structuring content
 
 CSS3 – For styling, layout, and responsiveness
 
-JavaScript (Vanilla) – For interactivity like navigation toggling and dynamic behaviors
+JavaScript – For interactivity like navigation toggling and dynamic behaviors
 
 ---
 
