@@ -39,7 +39,7 @@ assets/ – Folder for images, logos, and other media files
 
 ---
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 HTML5 – For structuring content
 
 CSS3 – For styling, layout, and responsiveness
@@ -48,7 +48,7 @@ JavaScript (Vanilla) – For interactivity like navigation toggling and dynamic 
 
 ---
 
-##📚 What I Learned
+## 📚 What I Learned
 Building real-world UI with HTML/CSS from scratch
 
 Implementing responsive design principles using media queries
@@ -59,14 +59,14 @@ Structuring CSS for scalability and maintainability
 
 ---
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
 Harshit Sharma
 📧 HS90908080@gmail.com
 🔗 https://www.linkedin.com/in/harshit-sharma00/
 
 ---
 
-##📄 License
+## 📄 License
 This project is open-source and free to use under the MIT License.
 
 ---
